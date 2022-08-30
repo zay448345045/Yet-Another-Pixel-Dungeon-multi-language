@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/vX6Vk9A.png" alt="YBPD"/>
 </p>
-<h1>Yellow Banana Pixel Dungeon</h1>
+<h1>Yellow Banana Pork Dumpling</h1>
 
 A mobile roguelike RPG, based on the source code of Yet Another Pixel Dungeon, made by ConsideredHamster.
 
